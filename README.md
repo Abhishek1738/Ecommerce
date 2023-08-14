@@ -1,7 +1,6 @@
 # MERN E-COMMERCE TUTORIAL
 
-Hi! My name is **Abhishek Gupta**, I have created this tutorial to teach MERN Stack.
-
+Hi! My name is **Abhishek Gupta**, I have created this MERN Stack Project.
 
 # Install Dependencies
 
