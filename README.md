@@ -1,4 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
+# MERN E-COMMERCE
 
 Hi! My name is **Abhishek Gupta**, I have created this MERN Stack Project.
 
